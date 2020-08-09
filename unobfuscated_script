@@ -1,0 +1,5 @@
+function fuckyou(fuckyou) 
+return fuckyou
+end
+
+return fuckyou(fuckyou)
